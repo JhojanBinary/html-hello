@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(0, 0, 0);  
+}
+
+.header{
+    display:flex;
+    justify-content: center;
+    background-color: aliceblue;
+    
+}
+
+.content{
+    width: 800px;
+    height: 900px;
+    background-color: aliceblue;
+    inset: 0;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 60px;
+}
+
+
+.content img{
+    width: 800px;
+    height: 700px;
+}
+
+.content p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.date{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+
+}
+.date h3{   
+    width: 750px;
+    margin-left: 20px;
+}
